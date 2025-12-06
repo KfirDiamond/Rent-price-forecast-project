@@ -1,7 +1,3 @@
-# Rent-price-forecast-project
-
-
-
 # Tel Aviv Rent Price Forecasting 🏠
 
 ## Overview
@@ -87,8 +83,7 @@ The models were evaluated using RMSE (Root Mean Squared Error), MAE (Mean Absolu
 
 **Kfir Diamond**
 
-  * [LinkedIn](https://www.google.com/search?q=https://www.linkedin.com/in/kfir-diamond-000b5428a)
-  * [GitHub](https://www.google.com/search?q=https://github.com/KD-g)
+  * [LinkedIn](https://www.linkedin.com/in/kfir-diamond-631571266/)
 
 -----
 
