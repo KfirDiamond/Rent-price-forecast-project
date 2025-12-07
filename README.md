@@ -87,4 +87,4 @@ The models were evaluated using RMSE (Root Mean Squared Error), MAE (Mean Absolu
 
 -----
 
-*This project was developed as part of a Data Mining course (2025).*
+*This project was developed as part of a Data Mining course (2024).*
