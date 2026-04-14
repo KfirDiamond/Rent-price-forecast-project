@@ -59,7 +59,7 @@ The models were evaluated using RMSE (Root Mean Squared Error), MAE (Mean Absolu
 
 1.  Clone the repo:
     ```bash
-    git clone https://github.com/KD-g/Rent-Price-Forecasting-Project.git
+    git clone https://github.com/KfirDiamond/Rent-price-forecast-project
     ```
 2.  Install required packages:
     ```bash
