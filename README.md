@@ -86,6 +86,4 @@ The models were evaluated using RMSE (Root Mean Squared Error), MAE (Mean Absolu
 
   * [LinkedIn](https://www.linkedin.com/in/kfir-diamond-631571266/)
 
------
 
-*This project was developed as part of a Data Mining course (2024).*
