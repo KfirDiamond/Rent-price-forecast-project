@@ -52,12 +52,6 @@ The models were evaluated using RMSE (Root Mean Squared Error), MAE (Mean Absolu
   * **Random Forest** slightly outperformed Elastic Net, suggesting non-linear relationships in the data.
   * **Feature Importance:** The most critical predictor of price was **Apartment Area ($m^2$)**, followed by **Distance from Center** and specific **Neighborhoods**.
 
-  * **Top 5 most important features / their importance:** 
-Area                           / 0.80,
-Distance from central TLV      / 0.08,
-Number of rooms                / 0.03,
-Building tax                   / 0.03,
-Socio-Economic rate            / 0.01
 
 ## 🚀 Getting Started
 
